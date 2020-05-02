@@ -1,11 +1,16 @@
 _repo: The-New-Science-of-Controlled-Breathing-Vol-2-of-2-The-Secret-of-Strength-Energy-and-BeautyTh__61945
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61945-h/images/cover.jpg
 creator:
   author:
     agent_name: Lankow, Edward
     gutenberg_agent_id: '51694'
     url: http://www.gutenberg.org/2009/agents/51694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61945#The-New-Science-of-Controlled-Breathing-Vol-2-of-2-The-Secret-of-Strength-Energy-and-BeautyTh_
 gutenberg_issued: '2020-04-26'
 gutenberg_type: Text
 identifiers:
